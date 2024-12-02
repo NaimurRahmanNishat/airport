@@ -95,25 +95,25 @@ const Page = () => {
         {/* Open Aircraft Route */}
         {openRoute && (
           <div>
-            <h1 className="pt-52">Aircraft Route</h1>
+            <h1 className="pt-5">Aircraft Route</h1>
           </div>
         )}
         {/* Open Passenger Guide */}
         {openGuide && (
           <div>
-            <h1 className="pt-52">Passenger Guide</h1>
+            <h1 className="pt-5">Passenger Guide</h1>
           </div>
         )}
         {/* Open Aircraft Number */}
         {airNumber && (
           <div>
-            <h1 className="pt-52">Aircraft Number</h1>
+            <h1 className="pt-5">Aircraft Number</h1>
           </div>
         )}
         {/* Open Ticket Price */}
         {ticketPrice && (
           <div>
-            <h1 className="pt-52">Ticket Price</h1>
+            <h1 className="pt-5">Ticket Price</h1>
           </div>
         )}
       </div>
